@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Kolt Django Workshop</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    </head>
+
+    <body>
+
+        <div class="container" align="center">
+        
+            <br>
+            <h1>welcome to kolt's blog</h1>
+            <h2>learning django is great!</h2>
+            <br>
+
+        </div>
+
+        <div class="container">
+
+            {% if post_in_detail %}
+
+                <h1>{{ post_in_detail.title }}</h1>
+                <p>{{ post_in_detail.text }}</p>
+                <p>{{ post_in_detail.create_date }}
+
+            {% endif %}
+
+        </div>
+
+    </body>
+
+</html>
