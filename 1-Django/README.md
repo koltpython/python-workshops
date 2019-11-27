@@ -14,11 +14,31 @@ You'll build a simple personal blog using Django Framework and publish it. You'l
 
 ### Installations
 
-You will need Python 3.6+ and a 
+You will need Python 3.6+ and python's virtualenv and django packages. Pip is already installed
+Pip is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4
+
+To install virtualenv and django:
+Run `$ pip install virtualenv` 
+
+After installation of virtualenv create a venv to install Python packages needed.
+Run `$ virtualenv -p python3 name_of_venv`
+
+Run `$ source name_of_venv/bin/activate` // in mac and linux
+Run `$ name_of_virtualenv/bin/activate`  // in windows
+
+After activation of venv:
+Run `$ pip install django`
 
 ### Starter Code
-
 Explanation of starter code.
+
+After install the Django:
+
+To Start a new Django Project:
+Run `$ django-admin startproject project_name`
+
+To test initialization of project go to project folder:
+Run `$ python manage.py runserver`
 
 ### (Optional) Presentation
 Link to presentation (in pdf format), and other supportive materials.
@@ -39,10 +59,9 @@ Run `$ pip install -r requirements.txt`
 ## ...
 
 
-
 ## Summary
 
-Brief recap.
+
 
 ## Links
 
