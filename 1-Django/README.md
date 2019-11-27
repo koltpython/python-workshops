@@ -23,8 +23,10 @@ Run `$ pip install virtualenv`
 After installation of virtualenv create a venv to install Python packages needed.
 Run `$ virtualenv -p python3 name_of_venv`
 
-Run `$ source name_of_venv/bin/activate` // in mac and linux
-Run `$ name_of_virtualenv/bin/activate`  // in windows
+// in mac and linux
+Run `$ source name_of_venv/bin/activate` 
+// in windows
+Run `$ name_of_virtualenv/bin/activate`  
 
 After activation of venv:
 Run `$ pip install django`
