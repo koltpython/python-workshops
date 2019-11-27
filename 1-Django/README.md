@@ -16,30 +16,13 @@ You'll need basic Python knowledge.
 
 ### Installations
 
-You will need Python 3.6+ and python's virtualenv and django packages. To install python packages we'll use the pip. Pip is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4
+You will need Python 3.6+ and python's venv and django packages. To install python packages we'll use the pip. Pip and venv are already installed in Python.
 
-To install virtualenv and django:
-
-Run `$ pip install virtualenv` 
-
-After installation of virtualenv create a venv to install Python packages needed.
-
-Run `$ virtualenv -p python3 name_of_venv`
-
-// in mac and linux
-
-Run `$ source name_of_venv/bin/activate` 
-
-// in windows
-
-Run `$ name_of_virtualenv/bin/activate`  
-
-After activation of venv:
+After activating venv:
 
 Run `$ pip install django`
 
 ### Starter Code
-Explanation of starter code.
 
 After install the Django:
 
@@ -64,9 +47,21 @@ Ex:
 
 ## 1. Create a Virtual Environment(venv)
 
-Run `$ virtualenv -p python3 name_of_venv`
+To create a new venv for tutorial:
+
+Run `$ python3 -m venv tutorial-env`
+
+// in mac and linux
+
+Run `$ source tutorial-env/bin/activate` 
+
+// in windows
+
+Run `$ tutorial-env\Scripts\activate.bat`
 
 ## 2. Install Required Packages Using pip 
+
+If you have a requirements.txt a project to install all packages used in project:
 
 Run `$ pip install -r requirements.txt`
 
