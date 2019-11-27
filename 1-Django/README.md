@@ -2,14 +2,13 @@
 
 Short description of used technologies and purpose of the workshop.
 
-Ex: This workshop provides a sample of how [Django Framework](https://www.djangoproject.com/) can help you build Web applications using Python. 
+This workshop provides a sample of how [Django Framework](https://www.djangoproject.com/) can help you build Web applications using Python. Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. In this workshop, we will create a blog site with Django framework then deploy our site on the pythonanywhere.com website with a free account.
 
 ## What you'll build
 
-Very short description of the final product.
-Ex: You'll build a simple personal blog using Django Framework and publish it to ....
+You'll build a simple personal blog using Django Framework and publish it. You'll create and update your posts in your blog with django admin panel.
 
-Link to live demo (preferred), or screenshots. 
+[Kolt Django Example Blog Site](https://koltdjangoworkshop.pythonanywhere.com)
 
 ## What you'll need
 
@@ -29,9 +28,11 @@ Ex:
 
 ## 1. Create a Virtual Environment(venv)
 
+Run `$ virtualenv -p python3 name_of_venv`
+
 ## 2. Install Required Packages Using pip 
 
-Run `$ pip install requirements.txt`
+Run `$ pip install -r requirements.txt`
 
 ## 3. Run the starter project.
 
