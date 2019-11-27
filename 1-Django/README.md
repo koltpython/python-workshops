@@ -18,17 +18,23 @@ You will need Python 3.6+ and python's virtualenv and django packages. Pip is al
 Pip is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4
 
 To install virtualenv and django:
+
 Run `$ pip install virtualenv` 
 
 After installation of virtualenv create a venv to install Python packages needed.
+
 Run `$ virtualenv -p python3 name_of_venv`
 
 // in mac and linux
+
 Run `$ source name_of_venv/bin/activate` 
+
 // in windows
+
 Run `$ name_of_virtualenv/bin/activate`  
 
 After activation of venv:
+
 Run `$ pip install django`
 
 ### Starter Code
@@ -37,9 +43,11 @@ Explanation of starter code.
 After install the Django:
 
 To Start a new Django Project:
+
 Run `$ django-admin startproject project_name`
 
 To test initialization of project go to project folder:
+
 Run `$ python manage.py runserver`
 
 ### (Optional) Presentation
