@@ -51,4 +51,5 @@ Links to get more information about the demo, tools, other guides, etc.
 - [Instructor's Personal Blog](https://tamurfirat.pythonanywhere.com/)
 - [Django Framework Website](https://www.djangoproject.com/)
 - [Django Tutorial by Django Girls](https://tutorial.djangogirls.org/)
-- ...
+
+
