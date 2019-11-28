@@ -39,7 +39,7 @@ To start a Django App:
 Run `$ python manage.py startapp app_name`
 
 
-### (Optional) Presentation
+### Presentation
 
 [Presentation Link](https://drive.google.com/file/d/11-geg--0mFDU9kqYFL9QuibQh552qvqr/view?usp=sharing)
 
