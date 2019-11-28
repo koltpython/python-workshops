@@ -40,10 +40,8 @@ Run `$ python manage.py startapp app_name`
 
 
 ### (Optional) Presentation
-Link to presentation (in pdf format), and other supportive materials.
 
-Add steps to go from starter code to final application.
-Ex:
+[Presentation Link](https://drive.google.com/file/d/11-geg--0mFDU9kqYFL9QuibQh552qvqr/view?usp=sharing)
 
 ## 1. Create a Virtual Environment(venv)
 
