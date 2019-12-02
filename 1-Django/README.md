@@ -65,7 +65,7 @@ Run `$ pip install -r requirements.txt`
 
 ## 3. Run the starter project.
 
-If you want to use that project, you can simply download and work on the project. After you install the project, you have to create a venv and install the packages inside the requirements.txt. 
+If you want to use that project, you can simply download and work on the project. After you install the project, you have to create a venv and install the packages which listed inside the requirements.txt. 
 
 ## Summary
 
