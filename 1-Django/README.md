@@ -12,7 +12,7 @@ You'll build a simple personal blog using Django Framework and publish it. You'l
 
 ## What you'll need
 
-You'll need basic Python knowledge. 
+You'll need basic Python and HTML knowledge.
 
 ### Installations
 
