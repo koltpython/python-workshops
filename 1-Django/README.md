@@ -1,7 +1,5 @@
 # 1. Introduction to Django - Fırat Tamur - 02.12.2019
 
-Short description of used technologies and purpose of the workshop.
-
 This workshop provides a sample of how [Django Framework](https://www.djangoproject.com/) can help you build Web applications using Python. Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. In this workshop, we will create a blog site with Django framework then deploy our site on the pythonanywhere.com website with a free account.
 
 ## What you'll build
@@ -38,7 +36,6 @@ To start a Django App:
 
 Run `$ python manage.py startapp app_name`
 
-
 ### Presentation
 
 [Presentation Link](https://drive.google.com/file/d/11-geg--0mFDU9kqYFL9QuibQh552qvqr/view?usp=sharing)
@@ -51,13 +48,13 @@ Run `$ python3 -m venv tutorial-env`
 
 // in mac and linux
 
-Run `$ source tutorial-env/bin/activate` 
+Run `$ source tutorial-env/bin/activate`
 
 // in windows
 
 Run `$ tutorial-env\Scripts\activate.bat`
 
-## 2. Install Required Packages Using pip 
+## 2. Install Required Packages Using pip
 
 If you have a requirements.txt a project to install all packages used in project:
 
@@ -65,7 +62,7 @@ Run `$ pip install -r requirements.txt`
 
 ## 3. Run the starter project.
 
-If you want to use that project, you can simply download and work on the project. After you install the project, you have to create a venv and install the packages which listed inside the requirements.txt. 
+If you want to use that project, you can simply download and work on the project. After you install the project, you have to create a venv and install the packages which listed inside the requirements.txt.
 
 ## Summary
 
@@ -78,5 +75,3 @@ Links to get more information about the demo, tools, other guides, etc.
 - [Instructor's Personal Blog](https://tamurfirat.pythonanywhere.com/)
 - [Django Framework Website](https://www.djangoproject.com/)
 - [Django Tutorial by Django Girls](https://tutorial.djangogirls.org/)
-
-
