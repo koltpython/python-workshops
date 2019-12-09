@@ -1,4 +1,4 @@
-# 2. APIs & Data Visualization - Ahmet Uysal - 09.12.2019
+# 2. APIs and Data Visualization - Ahmet Uysal - 09.12.2019
 
 This workshop provides a sample of how you can use Python to collect and visualize data from the internet. We chose a social example to hopefully make this workshop interesting for everyone. However, you can easily apply what you will learn to other topics. The main takeaway from this workshop is that you can create Python programs to automate almost everything you do online. Running this programs in large scale is powerful and generates valuable data.
 
@@ -12,7 +12,7 @@ You'll only need basic Python knowledge and a computer with standard Python inst
 
 ## Starter Code
 
-You can find both the starter code and the final program in this repository. Please get the starter code from [here](https://kinolien.github.io/gitzip/?download=koltpython/python-workshops/tree/master/2-APIs%20&%20Data%20Visualization).
+You can find both the starter code and the final program in this repository. Please get the starter code from [here](https://kinolien.github.io/gitzip/?download=koltpython/python-workshops/tree/master/2-APIs-and-Data-Visualization).
 
 ## 1. Create a Virtual Environment(venv)
 
