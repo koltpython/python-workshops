@@ -38,7 +38,7 @@ Run `$ python manage.py startapp app_name`
 
 ### Presentation
 
-[Presentation Link](https://drive.google.com/file/d/11-geg--0mFDU9kqYFL9QuibQh552qvqr/view?usp=sharing)
+[Presentation Link](https://github.com/koltpython/python-workshops/blob/master/1-Django/kolt-django-presentation.pdf)
 
 ## 1. Create a Virtual Environment(venv)
 
