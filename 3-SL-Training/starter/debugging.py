@@ -62,7 +62,7 @@ if __name__ == "__main__":
     heroes[0] * heroes[1]
     print(heroes)
 
-    villains = [Villain("Missing colon (:)"), Villain(
+    villains = [Villain("Missing colon (:)"),   Villain(
         "IndexError"), Villain("OverflowError"), Villain("Cold Coffee")]
 
     for hero in heroes:

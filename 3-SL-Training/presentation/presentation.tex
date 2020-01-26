@@ -1,0 +1,88 @@
+% pdflatex --shell-escape presentation.tex & pdflatex --shell-escape presentation.tex
+
+\input{KU-Beamer-Template/style/template.tex}
+\usepackage{KU-Beamer-Template/style/koc} 
+\usepackage{minted}
+
+\title{COMP 198} 
+\subtitle{Testing \& Debugging} 
+\newdate{date}{26}{1}{2020}
+\date{\displaydate{date}}
+\author{Ahmet Uysal}
+
+\titlegraphic{\includegraphics[width=0.5\textwidth]{KU-Beamer-Template/style/images/sl_logo.png}}
+
+\setbeamercovered{invisible} % transparent
+
+\begin{document}
+  \maketitle
+
+	\frame{\frametitle{Agenda}\tableofcontents}
+  
+  \section{Debugging}
+  
+  \begin{frame}{Example Scenerio}
+    \pause
+    \begin{columns}
+      \begin{column}{0.5\textwidth}
+        \includegraphics[width=\textwidth]{images/hero.png}
+      \end{column}
+      \pause
+      \begin{column}{0.5\textwidth}
+        \includegraphics[width=\textwidth]{images/villain.png}
+      \end{column}
+    \end{columns}
+  \end{frame}
+
+  \begin{frame}{Long Lasting Rivalry}
+    \centering
+    \includegraphics[width=0.5\textwidth]{images/matrix.png}
+  \end{frame}
+   
+   \begin{frame}{Magic}
+     \LARGE
+     \inputminted[frame=single,framesep=2pt]{python3}{magic.py}
+   \end{frame}
+
+    \begin{frame}{Live Demo}
+      \LARGE
+      You can get the starter code from here:\\
+      \href{https://kinolien.github.io/gitzip/?download=koltpython/python-workshops/tree/master/3-SL-Training/starter}{\textit{\underline{github.com/koltpython/python-workshops}}}
+      \pause
+      Included topics:
+      \begin{itemize}
+        \item Breakpoints
+        \item Stepping
+        \item Watching
+        \item Inline debugger
+        \item Evaluating Expressions
+      \end{itemize}
+    \end{frame}
+
+    \section{Testing with \texttt{doctest}}
+
+    \begin{frame}{Benefits}
+      \LARGE
+      \begin{itemize}
+        \item Enforces smaller functions.
+        \pause
+        \item Helps detecting edge cases and deciding on the scope of the function.
+        \pause
+        \item Makes harder to create bugs indirectly
+        \pause
+        \item Automates functionality checking (\textbf{AUTOGRADERS!})
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}{\texttt{doctest} module: Create tests while writing \texttt{docstring}s}
+      \LARGE
+      What is a \texttt{docstring}?
+      \inputminted[frame=single,framesep=2pt]{python3}{docstring.py}
+    \end{frame}
+
+    \begin{frame}{Live Demo}
+      \huge
+      Let's implement the fibonacci function together.
+    \end{frame}
+
+\end{document}

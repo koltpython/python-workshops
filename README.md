@@ -11,3 +11,7 @@ This workshop provides a sample of how [Django Framework](https://www.djangoproj
 ### [2. APIs and Data Visualization - Ahmet Uysal - 09.12.2019](2-APIs-and-Data-Visualization/README.md)
 
 This workshop provides a sample of how you can use Python to collect and visualize data from the internet. We will utilize the `requests` package to collect data from Instagram APIs and use the data we gathered to create visual charts.
+
+### [3. Debugging and Testing with `doctest` - Ahmet Uysal - 26.01.2020](3-SL-Training/README.md)
+
+This workshop is conducted at Koç Pera to teach fundamentals of debugging and unit testing in Python to new section leaders.

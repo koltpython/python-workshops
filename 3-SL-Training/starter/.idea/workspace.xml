@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86429eb9-12ee-4610-b97e-b5f1b1161bdd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debugging.py" beforeDir="false" afterPath="$PROJECT_DIR$/debugging.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/debugging.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testing.py" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -55,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="debugging" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="starter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debugging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579996569989</updated>
-      <workItem from="1579996572375" duration="4083000" />
+      <workItem from="1579996572375" duration="7714000" />
     </task>
     <servers />
   </component>
@@ -108,36 +110,36 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="68" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579997582835">
+    <state x="223" y="68" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580005367440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="68" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579997582835" />
-    <state x="548" y="177" key="FileChooserDialogImpl" timestamp="1579997544920">
+    <state x="223" y="68" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580005367440" />
+    <state x="548" y="177" key="FileChooserDialogImpl" timestamp="1580005366029">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="177" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579997544920" />
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1579997711884">
+    <state x="548" y="177" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580005366029" />
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1580005791489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579997711884" />
-    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1579997711884">
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580005791489" />
+    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1580005791489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579997711884" />
-    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1579997711883">
+    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580005791489" />
+    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1580005791489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579997711883" />
-    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1579997711884">
+    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580005791489" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1580005791489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579997711884" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580005791489" />
     <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1579996587045">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579996587045" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/starter$debugging.coverage" NAME="debugging Coverage Results" MODIFIED="1579997711873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/starter$debugging.coverage" NAME="testing Coverage Results" MODIFIED="1580005791481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
