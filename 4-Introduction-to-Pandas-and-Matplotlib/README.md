@@ -31,9 +31,9 @@ Run `$ jupyter notebook`
 
 ### Presentation
 
-[Presentation Link](https://github.com/koltpython/python-workshops/blob/master/1-Introcution-to-Pandas-and-Matplotlib)
+[Presentation Link](https://github.com/koltpython/python-workshops/blob/master/4-Introduction-to-Pandas-and-Matplotlib/pandas_matplotlib_presentation.pdf.pdf)
 
-[Case Study Notebook](https://github.com/koltpython/python-workshops/blob/master/1-Introcution-to-Pandas-and-Matplotlib)
+[Case Study Notebook](https://github.com/koltpython/python-workshops/blob/master/4-Introduction-to-Pandas-and-Matplotlib/us-covid-19.ipynb)
 
 ## Summary
 
