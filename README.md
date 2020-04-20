@@ -15,3 +15,9 @@ This workshop provides a sample of how you can use Python to collect and visuali
 ### [3. Debugging and Testing with `doctest` - Ahmet Uysal - 26.01.2020](3-SL-Training/README.md)
 
 This workshop is conducted at Koç Pera to teach fundamentals of debugging and unit testing in Python to new section leaders.
+
+## Spring 2020
+
+### [4. Introduction to `pandas` and `matplotlib` - Necla Mutlu - 20.04.2020](4-Introduction-to-Pandas-and-Matplotlib/README.md)
+
+This workshop aims to show how Python can be used for data science. In this workshop, we will examine the USA Covid-19 data with the tools provided by `pandas` and `matplotlib` packages.
